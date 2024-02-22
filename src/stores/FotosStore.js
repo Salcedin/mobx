@@ -15,8 +15,8 @@ class ArepaStore {
     };
     arepas = [
         {
-            nombre: "Arepa con Queso",
-            foto: "https://i.ytimg.com/vi/AJu0gRFsBrs/maxresdefault.jpg"
+            nombre: "Foto",
+            foto: "https://s1.significados.com/foto/paisaje-og.jpg?class=ogImageWide"
         }
     ];
 
